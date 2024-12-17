@@ -11,6 +11,3 @@
 
 - ⚡ Fun fact **I love learning, cloud computing, and building applications**
 
-
-<img alt="Dion's Stats" src ="https://github-readme-stats.vercel.app/api?username=Dnysus&show_icons=true"/>
-<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dnysus&show_icons=true"/>
