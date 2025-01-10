@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **DevOps**
 
-- 💬 Ask me about **Python, Kotlin/Java, Flutter (Dart), node.js, AWS**
+- 💬 Ask me about **Python, Kotlin/Java, Flutter (Dart), node.js, AWS, GCP**
 
 - 📫 How to reach me **dion@dnysus.com**
 
