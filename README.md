@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dion Williams</h1>
 <h3 align="center">A passionate software engineer from San Diego, CA</h3>
 
-- 🔭 I’m currently working on
+- 🔭 I’m currently working on AI/ML
 
-- 🌱 I’m currently learning **DevOps**
-
-- 💬 Ask me about **Python, Kotlin/Java, Flutter (Dart), node.js, AWS, GCP**
+- 💬 Ask me about **Python, Kotlin/Java, Flutter (Dart), Python, AWS, GCP**
 
 - 📫 How to reach me **dion@dnysus.com**
 
