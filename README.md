@@ -23,7 +23,7 @@
 
 ## 🛠️ Personal Projects
 
-### 🤖 Awnx AI - Intelligent HelpDesk Assistant
+### 🤖 Intelligent HelpDesk Assistant
 **Advanced AI-powered IT support automation platform**
 - **Tech Stack**: Flutter, Dart, Firebase, Python, Google Gemini API, JIRA API
 - **Features**: 
