@@ -5,7 +5,7 @@
 
 ## 💼 Professional Experience
 
-### 🔍 Devant-AI - AI Code Review Automation
+### 🔍 AI Code Review Automation
 **Intelligent pull request analysis and feedback system**
 - **Tech Stack**: Python, OpenAI/Azure OpenAI, GitHub Actions, AWS Lambda
 - **Features**: Automated code quality analysis, static analysis, multi-model AI support
