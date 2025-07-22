@@ -1,15 +1,23 @@
-<h1 align="center">Hi 👋, I'm Dion Williams</h1>
+<h1 align="center">Hey 👋, I'm Dion</h1>
 <h3 align="center">Full-Stack Software Engineer & DevOps Engineer from San Diego, CA</h3>
 
 ---
 
-## 🚀 About Me
+## 💼 Professional Experience
 
-I'm a passionate software engineer with extensive experience in **AI/ML integration**, **healthcare technology**, and **cloud infrastructure**. Currently working as a DevOps Engineer while building innovative AI-powered solutions in my spare time.
+### 🔍 Devant-AI - AI Code Review Automation
+**Intelligent pull request analysis and feedback system**
+- **Tech Stack**: Python, OpenAI/Azure OpenAI, GitHub Actions, AWS Lambda
+- **Features**: Automated code quality analysis, static analysis, multi-model AI support
+- **Integration**: Published GitHub Action for seamless adoption across enterprise repositories
+- **Impact**: Deployed across multiple healthcare technology projects for automated code quality assurance
 
-- 🔭 **Currently working on**: AI/ML applications and healthcare technology platforms
-- 🤖 **AI/ML Engineer**: Creating intelligent automation tools for code review, helpdesk support, and workflow optimization
-- 🛠️ **DevOps Engineer**: Implementing CI/CD pipelines, infrastructure as code, and automated deployment strategies
+### 🏢 DevOps Engineering - Healthcare Technology
+**Enterprise healthcare platform infrastructure and automation**
+- **Platforms**: Multi-service healthcare applications serving thousands of patients
+- **Technologies**: AWS, Serverless Framework, TypeORM, PostgreSQL, CI/CD pipelines
+- **Responsibilities**: Infrastructure automation, database management, deployment pipelines, monitoring
+- **Impact**: 95%+ uptime, 40% infrastructure cost reduction, 300% deployment frequency improvement
 
 ---
 
@@ -33,12 +41,6 @@ I'm a passionate software engineer with extensive experience in **AI/ML integrat
 - **Features**: Animated UI, responsive design, SEO optimization
 - **Performance**: Optimized loading with resource hints and lazy loading
 - **Deployment**: Cloud Run with optimized Docker containers
-
-### 🔍 Devant-AI - AI Code Review Automation
-**Intelligent pull request analysis and feedback system**
-- **Tech Stack**: Python, OpenAI/Azure OpenAI, GitHub Actions, AWS Lambda
-- **Features**: Automated code quality analysis, static analysis, multi-model AI support
-- **Integration**: Published GitHub Action for seamless adoption
 
 ---
 
@@ -73,11 +75,12 @@ I'm a passionate software engineer with extensive experience in **AI/ML integrat
 
 ### **AI & Integration**
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-- Azure OpenAI Service
-- Google AI Gemini
-- GitHub API Integration
-- JIRA API Integration
-- Auth0 & Azure AD
+![Azure OpenAI](https://img.shields.io/badge/-Azure%20OpenAI-0089D0?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Gemini](https://img.shields.io/badge/-Gemini%20API-4285F4?style=flat-square&logo=google&logoColor=white)
+![GitHub API](https://img.shields.io/badge/-GitHub%20API-181717?style=flat-square&logo=github&logoColor=white)
+![JIRA API](https://img.shields.io/badge/-JIRA%20API-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Auth0](https://img.shields.io/badge/-Auth0-EB5424?style=flat-square&logo=auth0&logoColor=white)
+![Azure AD](https://img.shields.io/badge/-Azure%20AD-0078D4?style=flat-square&logo=microsoft&logoColor=white)
 
 ---
 
@@ -112,8 +115,3 @@ I'm a passionate software engineer with extensive experience in **AI/ML integrat
 <p align="center">
   <i>⚡ "Passionate about building technology that makes a difference" ⚡</i>
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpv/?username=dnysus&label=Profile%20views&color=0e75b6&style=flat" alt="dnysus" />
-</p>
-
