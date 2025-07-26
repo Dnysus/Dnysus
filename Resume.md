@@ -3,7 +3,6 @@
 
 **Location:** San Diego, CA  
 **Email:** dion@dnysus.com  
-**Phone:** +1 (858) 666-5162  
 **LinkedIn:** [linkedin.com/in/dionlwilliams](https://linkedin.com/in/dionlwilliams)
 
 ---
