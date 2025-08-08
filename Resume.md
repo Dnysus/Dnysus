@@ -9,7 +9,7 @@
 
 ## 🎯 Professional Summary
 
-Results-driven DevOps Engineer and Full-Stack Developer with 3+ years of experience in healthcare technology, specializing in cloud infrastructure, AI/ML integration, and automated deployment pipelines. Proven track record of reducing deployment times by 50%, improving system uptime to 95%+, and implementing innovative AI-powered solutions that enhance development workflows.
+Results-driven DevOps Engineer and Full-Stack Developer with 3+ years of experience in healthcare technology, specializing in cloud infrastructure, AI/ML integration, and automated deployment pipelines. Proven track record of reducing deployment times, improving system uptime, and implementing innovative AI-powered solutions that enhance development workflows.
 
 ---
 
