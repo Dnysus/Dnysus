@@ -17,7 +17,6 @@
 - **Platforms**: Multi-service healthcare applications serving thousands of patients
 - **Technologies**: AWS, Serverless Framework, TypeORM, PostgreSQL, CI/CD pipelines
 - **Responsibilities**: Infrastructure automation, database management, deployment pipelines, monitoring
-- **Impact**: 95%+ uptime, 40% infrastructure cost reduction, 300% deployment frequency improvement
 
 ---
 
