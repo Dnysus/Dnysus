@@ -1,45 +1,45 @@
 <h1 align="center">Hey 👋, I'm Dion</h1>
-<h3 align="center">Full-Stack Software Engineer & DevOps Engineer from San Diego, CA</h3>
+
+<h3 align="center">DevOps Engineer | Full-Stack Developer | Cloud Architect</h3>
+<p align="center">San Diego, CA</p>
 
 ---
 
-## 💼 Professional Experience
+## 🚀 About Me
 
-### 🔍 AI Code Review Automation
-**Intelligent pull request analysis and feedback system**
-- **Tech Stack**: Python, OpenAI/Azure OpenAI, GitHub Actions, AWS Lambda
-- **Features**: Automated code quality analysis, static analysis, multi-model AI support
-- **Integration**: Published GitHub Action for seamless adoption across enterprise repositories
-- **Impact**: Deployed across multiple healthcare technology projects for automated code quality assurance
-
-### 🏢 DevOps Engineering - Healthcare Technology
-**Enterprise healthcare platform infrastructure and automation**
-- **Platforms**: Multi-service healthcare applications serving thousands of patients
-- **Technologies**: AWS, Serverless Framework, TypeORM, PostgreSQL, CI/CD pipelines
-- **Responsibilities**: Infrastructure automation, database management, deployment pipelines, monitoring
+Results-driven DevOps Engineer and Full-Stack Developer with **6+ years of experience** in healthcare technology, specializing in cloud infrastructure, AI/ML integration, and automated deployment pipelines. Passionate about leveraging cutting-edge technologies to create seamless, efficient solutions that drive innovation.
 
 ---
 
-## 🛠️ Personal Projects
+## 🛠️ Featured Projects
 
-### 🤖 Intelligent HelpDesk Assistant
-**Advanced AI-powered IT support automation platform**
-- **Tech Stack**: Flutter, Dart, Firebase, Python, Google Gemini API, JIRA API
-- **Features**: 
-  - Automated Tier 1-2 support with NLP
-  - GitHub PR monitoring and integration
-  - Cloud infrastructure monitoring (AWS/Azure/GCP)
-  - License management automation
-  - Smart ticket routing and escalation
-- **Deployment**: Google Cloud Run with Docker
-- **Architecture**: Microservices with real-time monitoring
+### 🌐 Professional Portfolio Website
+**[dnysus.com](https://dnysus.com)** | Flutter, Dart, Docker, Google Cloud Run, GitHub Actions
 
-### 🌐 Dnysus Website - Portfolio
-**High-performance Flutter web application**
-- **Tech Stack**: Flutter, Dart, Google Cloud, Nginx
-- **Features**: Animated UI, responsive design, SEO optimization
-- **Performance**: Optimized loading with resource hints and lazy loading
-- **Deployment**: Cloud Run with optimized Docker containers
+A modern, responsive single-page portfolio showcasing professional experience and projects
+- ✨ Dynamic gradient background with smooth scroll-triggered animations
+- 🚀 Automated CI/CD pipeline with GitHub Actions for continuous deployment
+- ☁️ Containerized deployment on Google Cloud Run with auto-scaling
+- ⚡ Optimized for performance with lazy-loaded assets and SEO optimization
+
+### 🤖 Intelligent Help Desk Assistant
+**In Development** | Flutter, Python, Firebase, Google Gemini API, JIRA API, Docker
+
+Advanced AI-powered helpdesk solution automating Tier 1-2 support tasks
+- 🧠 Automated support handling with NLP and step-by-step guidance
+- 📚 Knowledge base integration with intelligent document retrieval
+- 🎫 Smart ticket management with automated creation, categorization, and routing
+- 🔍 GitHub PR monitoring and code change summarization
+- ☁️ Real-time AWS/Azure/GCP monitoring with intelligent error reporting
+
+### 👟 Shoe Mileage Tracker
+**In Development** | Kotlin, Jetpack Compose, Material 3, Room Database, Wear OS
+
+Comprehensive Android application for tracking shoe mileage using step counting
+- 📱 Automatic step counting using device sensors with background service
+- 👟 Multi-shoe management with individual statistics and photos
+- ⌚ Dedicated Wear OS companion app for on-wrist tracking
+- 📊 Daily goal setting with progress visualization and historical data
 
 ---
 
@@ -51,15 +51,16 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 
 ### **Cloud & DevOps**
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0089D0?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![Serverless](https://img.shields.io/badge/-Serverless-FD5750?style=flat-square&logo=serverless&logoColor=white)
@@ -85,32 +86,50 @@
 
 ## 📊 Key Achievements
 
-- 🏥 **Healthcare Impact**: Built and maintained critical healthcare infrastructure serving thousands of patients
-- 🤖 **AI Innovation**: Developed intelligent automation tools reducing manual support tasks by 70%
-- ☁️ **Cloud Optimization**: Implemented serverless architectures reducing infrastructure costs by 40%
-- 🔄 **DevOps**: Established CI/CD pipelines improving deployment frequency by 300%
-- 📈 **Performance**: Optimized applications achieving 95%+ uptime and sub-second response times
+- 🚀 **Pipeline Optimization**: Reduced deployment time by **30%** and rebuild time by **50%**
+- 🤖 **AI Innovation**: Cut manual code review time by **70%** with AI-powered automation
+- 💰 **Cost Efficiency**: Achieved **40%** infrastructure cost reduction through serverless optimization
+- 🏥 **Healthcare Impact**: Maintained **95%+** uptime across critical healthcare platforms serving thousands of patients
+- 🔄 **Automation**: Automated lifecycle management for **10+** repositories
+- 📈 **Support Excellence**: Improved customer satisfaction ratings by **35%**
+- ⚡ **Process Improvement**: Reduced device support time by **15%** and service interruptions by **18%**
 
 ---
 
-## 🏗️ Architecture Philosophy
+## 🎓 Certifications
 
-- **Cloud-First**: Designing scalable, resilient systems using cloud-native technologies
-- **AI-Driven**: Integrating intelligent automation to enhance user experiences
-- **Security-Focused**: Implementing robust authentication and data protection strategies
-- **Performance-Optimized**: Building high-performance applications with monitoring and observability
-- **DevOps-Integrated**: Ensuring reliable deployments with comprehensive testing and rollback strategies
+**AWS Certified Cloud Practitioner**  
+Amazon Web Services | Valid: October 2025 - October 2028
+
+---
+
+## 🏗️ What I Bring
+
+✅ **DevOps & CI/CD Automation** - Expertise in building scalable, automated deployment pipelines  
+✅ **Cloud Architecture** - Proven experience with AWS, GCP, and Azure platforms  
+✅ **Full-Stack Development** - Strong background in frontend and backend technologies  
+✅ **AI/ML Integration** - Experience implementing AI solutions for business automation  
+✅ **Healthcare Technology** - HIPAA-compliant system design and implementation  
+✅ **Code Quality** - Committed to maintaining high standards through automation  
+✅ **Problem Solving** - Track record of identifying inefficiencies and implementing solutions  
+✅ **Continuous Learning** - Always exploring new technologies and best practices
 
 ---
 
 ## 📫 Let's Connect
 
-- 💼 **LinkedIn**: [Connect with me](https://linkedin.com/in/dionlwilliams)
+- 💼 **LinkedIn**: [linkedin.com/in/dionlwilliams](https://linkedin.com/in/dionlwilliams)
 - 🌐 **Website**: [dnysus.com](https://dnysus.com)
+- 💻 **GitHub**: [github.com/Dnysus](https://github.com/Dnysus)
 - 📧 **Email**: [dion@dnysus.com](mailto:dion@dnysus.com)
-- 💬 **Ask me about**: Python, TypeScript, Flutter, AWS, GCP, AI/ML
+- 💬 **Ask me about**: Python, TypeScript, Flutter, AWS, GCP, AI/ML, DevOps, Healthcare Tech
+
 ---
 
 <p align="center">
-  <i>⚡ "Passionate about building technology that makes a difference" ⚡</i>
+  <i>⚡ "Building technology that makes a difference" ⚡</i>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Dnysus&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
