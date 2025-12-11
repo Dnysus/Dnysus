@@ -5,44 +5,6 @@
 
 ---
 
-## 🚀 About Me
-
-Results-driven DevOps Engineer and Full-Stack Developer with **6+ years of experience** in healthcare technology, specializing in cloud infrastructure, AI/ML integration, and automated deployment pipelines. Passionate about leveraging cutting-edge technologies to create seamless, efficient solutions that drive innovation.
-
----
-
-## 🛠️ Featured Projects
-
-### 🌐 Professional Portfolio Website
-**[dnysus.com](https://dnysus.com)** | Flutter, Dart, Docker, Google Cloud Run, GitHub Actions
-
-A modern, responsive single-page portfolio showcasing professional experience and projects
-- ✨ Dynamic gradient background with smooth scroll-triggered animations
-- 🚀 Automated CI/CD pipeline with GitHub Actions for continuous deployment
-- ☁️ Containerized deployment on Google Cloud Run with auto-scaling
-- ⚡ Optimized for performance with lazy-loaded assets and SEO optimization
-
-### 🤖 Intelligent Help Desk Assistant
-**In Development** | Flutter, Python, Firebase, Google Gemini API, JIRA API, Docker
-
-Advanced AI-powered helpdesk solution automating Tier 1-2 support tasks
-- 🧠 Automated support handling with NLP and step-by-step guidance
-- 📚 Knowledge base integration with intelligent document retrieval
-- 🎫 Smart ticket management with automated creation, categorization, and routing
-- 🔍 GitHub PR monitoring and code change summarization
-- ☁️ Real-time AWS/Azure/GCP monitoring with intelligent error reporting
-
-### 👟 Shoe Mileage Tracker
-**In Development** | Kotlin, Jetpack Compose, Material 3, Room Database, Wear OS
-
-Comprehensive Android application for tracking shoe mileage using step counting
-- 📱 Automatic step counting using device sensors with background service
-- 👟 Multi-shoe management with individual statistics and photos
-- ⌚ Dedicated Wear OS companion app for on-wrist tracking
-- 📊 Daily goal setting with progress visualization and historical data
-
----
-
 ## 🛠️ Technical Skills
 
 ### **Languages & Frameworks**
@@ -84,38 +46,6 @@ Comprehensive Android application for tracking shoe mileage using step counting
 
 ---
 
-## 📊 Key Achievements
-
-- 🚀 **Pipeline Optimization**: Reduced deployment time by **30%** and rebuild time by **50%**
-- 🤖 **AI Innovation**: Cut manual code review time by **70%** with AI-powered automation
-- 💰 **Cost Efficiency**: Achieved **40%** infrastructure cost reduction through serverless optimization
-- 🏥 **Healthcare Impact**: Maintained **95%+** uptime across critical healthcare platforms serving thousands of patients
-- 🔄 **Automation**: Automated lifecycle management for **10+** repositories
-- 📈 **Support Excellence**: Improved customer satisfaction ratings by **35%**
-- ⚡ **Process Improvement**: Reduced device support time by **15%** and service interruptions by **18%**
-
----
-
-## 🎓 Certifications
-
-**AWS Certified Cloud Practitioner**  
-Amazon Web Services | Valid: October 2025 - October 2028
-
----
-
-## 🏗️ What I Bring
-
-✅ **DevOps & CI/CD Automation** - Expertise in building scalable, automated deployment pipelines  
-✅ **Cloud Architecture** - Proven experience with AWS, GCP, and Azure platforms  
-✅ **Full-Stack Development** - Strong background in frontend and backend technologies  
-✅ **AI/ML Integration** - Experience implementing AI solutions for business automation  
-✅ **Healthcare Technology** - HIPAA-compliant system design and implementation  
-✅ **Code Quality** - Committed to maintaining high standards through automation  
-✅ **Problem Solving** - Track record of identifying inefficiencies and implementing solutions  
-✅ **Continuous Learning** - Always exploring new technologies and best practices
-
----
-
 ## 📫 Let's Connect
 
 - 💼 **LinkedIn**: [linkedin.com/in/dionlwilliams](https://linkedin.com/in/dionlwilliams)
@@ -127,7 +57,7 @@ Amazon Web Services | Valid: October 2025 - October 2028
 ---
 
 <p align="center">
-  <i>⚡ "Building technology that makes a difference" ⚡</i>
+  <i>⚡ "Powered by Intellect, Driven by Innovation" ⚡</i>
 </p>
 
 <p align="center">
