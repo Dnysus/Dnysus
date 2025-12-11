@@ -52,7 +52,7 @@
 - 🌐 **Website**: [dnysus.com](https://dnysus.com)
 - 💻 **GitHub**: [github.com/Dnysus](https://github.com/Dnysus)
 - 📧 **Email**: [dion@dnysus.com](mailto:dion@dnysus.com)
-- 💬 **Ask me about**: Python, TypeScript, Flutter, AWS, GCP, AI/ML, DevOps, Healthcare Tech
+- 💬 **Ask me about**: Python, TypeScript, Flutter, AI, AWS, GCP, AI/ML, DevOps, Healthcare Tech
 
 ---
 
