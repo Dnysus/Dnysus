@@ -49,9 +49,8 @@
 ## 📫 Let's Connect
 
 - 💼 **LinkedIn**: [linkedin.com/in/dionlwilliams](https://linkedin.com/in/dionlwilliams)
-- 🌐 **Website**: [dnysus.com](https://dnysus.com)
 - 💻 **GitHub**: [github.com/Dnysus](https://github.com/Dnysus)
-- 📧 **Email**: [dion@dnysus.com](mailto:dion@dnysus.com)
+- 📧 **Email**: [dion@dnysus.com](mailto:iotdion20@gmail.com)
 - 💬 **Ask me about**: Python, TypeScript, Flutter, AI, AWS, GCP, AI/ML, DevOps, Healthcare Tech
 
 ---
