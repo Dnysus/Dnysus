@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋, I'm Dion</h1>
 
-<h3 align="center">DevOps Engineer | Full-Stack Developer | Cloud Architect</h3>
+<h3 align="center"> Senior DevOps Engineer | Cloud Architect</h3>
 <p align="center">San Diego, CA</p>
 
 ---
