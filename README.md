@@ -50,9 +50,6 @@
 ## 📫 Let's Connect
 
 - 💼 **LinkedIn**: [linkedin.com/in/dionlwilliams](https://linkedin.com/in/dionlwilliams)
-- 💻 **GitHub**: [github.com/Dnysus](https://github.com/Dnysus)
-- 📧 **Email**: [iotdion20@gmail.com](mailto:iotdion20@gmail.com)
-- 💬 **Ask me about**: Python, TypeScript, Flutter, AI, AWS, GCP, AI/ML, DevOps, Terraform, Healthcare Tech
 
 ---
 
