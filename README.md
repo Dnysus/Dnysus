@@ -48,12 +48,6 @@
 
 ---
 
-## 📫 Let's Connect
-
-- 💼 **LinkedIn**: [linkedin.com/in/dionlwilliams](https://linkedin.com/in/dionlwilliams)
-
----
-
 <p align="center">
   <i>⚡ "Powered by Intellect, Driven by Innovation" ⚡</i>
 </p>
